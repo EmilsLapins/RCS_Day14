@@ -4,7 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		String input = "qwertyuiopasdfghjklzxcvbnm";
 
 		String[] patskanis = { "a", "ā", "e", "ē", "i", "ī", "u,", "ū" };
 		String[] lidzskanis = { "b", "c", "č", "d", "f", "g", "ģ", "h", "j", "k", "ķ", "l", "m", "n", "ņ", "p", "r",
